@@ -9,8 +9,7 @@ import { HiOutlineBars3, HiOutlineXMark } from "react-icons/hi2";
 import Link from "next/link";
 import Image from "next/image";
 import MegaMenuDropdown from "../Dropdowns/Categories";
-import PhoneCategories from "../Dropdowns/phoneCategories";
-
+import PhoneCategories from "../Dropdowns/PhoneCategories";
 export default function NavigationBar() {
   const [isFixed, setIsFixed] = useState(false);
   const [isOpen, setIsOpen] = useState(false);
