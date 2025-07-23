@@ -223,7 +223,7 @@ const PhoneCategories = () => {
                 <SlArrowRight className="text-[0.7rem] text-pink-600 font-semibold" />
               </div>
             ))}
-            <p className="text-blue-900 text-[0.8rem] font-medium py-3 pl-4 cursor-pointer">
+            <p className="text-blue-800 text-[0.8rem] font-medium py-3 pl-4 cursor-pointer">
               View All
             </p>
           </div>
